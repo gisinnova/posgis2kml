@@ -1,0 +1,15 @@
+gdxWms2kml.py 20100512a    FIX:   eliminato BBOX da  disegna()\n                        FIX:   ora tutti i  WMS  sono disattiviÂ
+
+gdxLayerRecordUpdate.py 20100708   FIX:  i campi vengono ripuliti dagli spazi a destra
+
+gdxLayerBaloonEdit.py 20100413   FIX:  gid invece di "numero"
+
+gdxLayerBaloon.py 20100413   FIX:  gid invece di "numero"
+
+gdxLayerBalNone.py 20100329 scrive una scheda HTML nel baloon
+
+gdxLayer2kml.py 20100712a   aggiunto controllo coordinate min max di BBOX\n\nÂ
+
+gdx_features_iwk.py simona prova iwebkit
+
+_gdxvars.py <<<<<
